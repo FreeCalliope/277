@@ -7,10 +7,10 @@ Datasets for analysis
   
   2. Chan-Lam coupling of primary sulfonamides with boronic acids
   Web Link: https://open-reaction-database.org/dataset/ord_dataset-5c9a10329a8a48968d18879a48bb8ab2
-  Link to Copy in Repo: 
+  Link to Copy in Repo: https://github.com/FreeCalliope/277/blob/main/ord_dataset-5c9a10329a8a48968d18879a48bb8ab2.pb.gz
   Path when Executing Code: /content/ord-schema/277/ord_dataset-5c9a10329a8a48968d18879a48bb8ab2.pb.gz
 
   3. Aniline amide coupling reaction
   Web Link: https://open-reaction-database.org/dataset/ord_dataset-7acd6ad2bf4d4cff841cad008ab726d5
-  Link to Copy in Repo: 
+  Link to Copy in Repo: https://github.com/FreeCalliope/277/blob/main/ord_dataset-7acd6ad2bf4d4cff841cad008ab726d5.pb.gz
   Path when Executing Code: /content/ord-schema/277/ord_dataset-7acd6ad2bf4d4cff841cad008ab726d5.pb.gz
